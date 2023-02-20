@@ -1,5 +1,5 @@
 <script setup>
-  import WeatherForecast from './components/WeatherForecast.vue';
+  import WeatherData from './components/WeatherData.vue';
 </script>
 
 <template>
@@ -9,7 +9,7 @@
   </header>
 
   <main>
-    <WeatherForecast />
+    <WeatherData />
   </main>
 </template>
 
